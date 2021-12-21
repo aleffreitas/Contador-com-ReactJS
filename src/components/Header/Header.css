@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 10rem;
+    background: #3e3e3e;
+    color : white;
+    border-bottom: 0.2px solid rgba(0, 215, 243, 0.151);
+}
+
+h1{
+    font-size: 3rem;
+}
+
+ul{
+    display: flex;
+    gap: 3rem;
+}
+
+li{
+    list-style: none;
+    font-size: 1.3rem;
+}

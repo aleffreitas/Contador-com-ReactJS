@@ -1,0 +1,23 @@
+h2{
+    color: white;
+    font-size: 5rem;
+}
+
+button{
+    border: none;
+    padding: 2rem;
+    border-radius: 1rem;
+    font-size: 2rem;
+    color: white;
+    background-color: rgba(0, 215, 243, 0.151);
+    transition: 0.2s;
+}
+
+button:hover{
+    filter: brightness(0.9);
+}
+
+.counter{
+    text-align: center;
+    margin-top: 10rem;
+}
